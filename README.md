@@ -1,10 +1,20 @@
-# news-image-20261117 — "The World Today: Tuesday 17 November 2026"
+# news-image-20261117-entry
 
-A newspaper-front-page poster that sums up Tuesday 17 November 2026's world
-news in a single image — built so a judge with no news feed can read the day
-from the image alone. **35 stories, 6 continents, one page** — the format
-the live leaderboard's top entries use (studied 2026-11-18: 30–40 stories,
-numbered, world map with numbered dots, ALSO ON list, sources footer).
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/dayuwidayadi57/news-image-20261117-entry/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/dayuwidayadi57/news-image-20261117-entry/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
+A newspaper-front-page poster ("The World Today") summing up Tuesday 17 November 2026's world news in a single image — 35 stories, 6 continents, one page — built so a judge with no news feed can read the day from the image alone. The format the live leaderboard's top entries use (studied 2026-11-18: 30–40 stories, numbered, world map with numbered dots, ALSO ON list, sources footer).
+
+## Run it
+
+```sh
+node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=dp1radt1&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
 
 ## The fifteen numbered stories (all reported on 17 November 2026)
 
